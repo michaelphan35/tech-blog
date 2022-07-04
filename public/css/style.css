@@ -7,19 +7,18 @@
     padding: 5px;
     background-color: #ece5e5;
     margin: 5px;
-    font-family: monospace, serif;
     color: rgb(50, 151, 168);
   }
 
   textarea, input {
     padding: 2%;
     border-radius: 10px;
-    border: 1px solid #3486eb;
+    border: 1px solid blue;
   }
   
   textarea:focus, input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid blue;
   }
   
   textarea {
@@ -28,7 +27,7 @@
   }
 
   header {
-    border-bottom: 1px solid #3486eb;
+    border-bottom: 1px solid blue;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -46,7 +45,7 @@
   
   a {
     text-decoration: none;
-    color: #a84343;
+    color: red;
     transition: color .1s;
   }
   
@@ -55,7 +54,7 @@
   }
   
   button {
-    background-color: #a84343;
+    background-color: red;
     border: 0;
     padding: 1%;
     color: white;
@@ -65,7 +64,7 @@
   }
   
   button:hover {
-    background-color: #3486eb;
+    background-color: blue;
   }
   
   form > div {
@@ -116,15 +115,15 @@
   
   .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: blue;
   }
   
   .delete-post-btn {
-    background-color: #a84343;
+    background-color: red;
   }
   
   .delete-post-btn:hover {
-    background-color: #a84343;
+    background-color: red;
   }
   
   .post {
