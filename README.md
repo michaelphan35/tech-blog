@@ -29,8 +29,8 @@ none
 no other contributers for this project.
 
 ## Screenshots
-![Heroku error screenshot](./media/heroku_employ_error.jpg?raw=true "Application Screenshot")
-![Node error screenshot](./media/node_error_14.jpg?raw=true "Application Screenshot")
+![Heroku error screenshot](./media/heroku_deploy_error.jpg?raw=true "Application Screenshot")
+![Node error screenshot](./media/node _error_14.jpg?raw=true "Application Screenshot")
 
 ## Heroku
 [Please click here to open up deployed application in heroku](https://gaming-tech-blog.herokuapp.com)
