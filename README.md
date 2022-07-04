@@ -8,7 +8,7 @@
 -[License](#license)<br/>
 -[Contribution](#contribution)<br/>
 -[Screenshots](#screenshots)<br/>
--[Link](#link)<br/>
+-[Heroku](#heroku)<br/>
 -[License](#license)<br/>
 -[Questions](#questions)<br/>
     
@@ -28,11 +28,12 @@ none
 ## Contribution
 no other contributers for this project.
 
-## Screenshots of the Project
-![Application Screenshot](./media/html_creation.jpg?raw=true "Application Screenshot")
+## Screenshots
+![Heroku error screenshot](./media/heroku_employ_error.jpg?raw=true "Application Screenshot")
+![Node error screenshot](./media/node_error_14.jpg?raw=true "Application Screenshot")
 
-## Link to deployed application
-Link: 
+## Heroku
+[Please click here to open up deployed application in heroku](https://gaming-tech-blog.herokuapp.com)
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
